@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/tomodo/static/css/main.dd84d473.css",
-    "main.js": "/tomodo/static/js/main.65ba910b.js",
+    "main.css": "/tomodo/static/css/main.7eb586e4.css",
+    "main.js": "/tomodo/static/js/main.5c1c8d62.js",
     "static/js/787.b21f3d8a.chunk.js": "/tomodo/static/js/787.b21f3d8a.chunk.js",
     "index.html": "/tomodo/index.html",
-    "main.dd84d473.css.map": "/tomodo/static/css/main.dd84d473.css.map",
-    "main.65ba910b.js.map": "/tomodo/static/js/main.65ba910b.js.map",
+    "main.7eb586e4.css.map": "/tomodo/static/css/main.7eb586e4.css.map",
+    "main.5c1c8d62.js.map": "/tomodo/static/js/main.5c1c8d62.js.map",
     "787.b21f3d8a.chunk.js.map": "/tomodo/static/js/787.b21f3d8a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.dd84d473.css",
-    "static/js/main.65ba910b.js"
+    "static/css/main.7eb586e4.css",
+    "static/js/main.5c1c8d62.js"
   ]
 }
